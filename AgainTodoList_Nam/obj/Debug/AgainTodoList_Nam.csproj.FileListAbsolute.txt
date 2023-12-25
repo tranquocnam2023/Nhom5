@@ -1,0 +1,26 @@
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\bin\Debug\AgainTodoList_Nam.exe.config
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\bin\Debug\AgainTodoList_Nam.exe
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\bin\Debug\AgainTodoList_Nam.pdb
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.csproj.AssemblyReference.cache
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.Properties.Resources.resources
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.csproj.GenerateResource.cache
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.csproj.CoreCompileInputs.cache
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.exe
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.pdb
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.Login.resources
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.SignUp.resources
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.ToDoList.resources
+D:\backup\TÀI LIỆU HỌC HÀNH\CODE C,C++\BT C,C++\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.lvCompleted.resources
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\bin\Debug\AgainTodoList_Nam.exe.config
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\bin\Debug\AgainTodoList_Nam.exe
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\bin\Debug\AgainTodoList_Nam.pdb
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.lvCompleted.resources
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.Login.resources
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.SignUp.resources
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.views.ToDoList.resources
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.exe
+C:\Users\ADMIN\Desktop\AgainTodoList_Nam\obj\Debug\AgainTodoList_Nam.pdb
